@@ -1,0 +1,14 @@
+{
+  "name": "Quant Aptitude Coach",
+  "short_name": "Quant Coach",
+  "description": "Personal daily quantitative aptitude practice, streaks and source-book scans.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#5364e8",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

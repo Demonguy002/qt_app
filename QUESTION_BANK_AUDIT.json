@@ -1,0 +1,36 @@
+{
+  "sourcePagesManuallyChecked": [
+    14,
+    15,
+    23
+  ],
+  "questionCount": 21,
+  "allQuestionsHaveFourOptions": true,
+  "allAnswerLabelsExist": true,
+  "allSolutionsPresent": true,
+  "questionIds": [
+    "num-ex1-q001",
+    "num-ex1-q002",
+    "num-ex1-q003",
+    "num-ex1-q004",
+    "num-ex1-q005",
+    "num-ex1-q007",
+    "num-ex1-q008",
+    "num-ex1-q009",
+    "num-ex1-q010",
+    "num-ex1-q012",
+    "num-ex1-q013",
+    "num-ex1-q017",
+    "num-ex1-q018",
+    "num-ex1-q019",
+    "num-ex1-q025",
+    "num-ex1-q026",
+    "num-ex1-q027",
+    "num-ex1-q028",
+    "num-ex1-q029",
+    "num-ex1-q031",
+    "num-ex1-q032"
+  ],
+  "notIncludedInPractice": "All 917 prior machine-OCR candidates; they remain excluded pending manual transcription and verification.",
+  "sourceIntegrity": "Do not infer missing characters or answers from OCR. Use the private PDF viewer for source inspection."
+}

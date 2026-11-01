@@ -1,0 +1,1541 @@
+{
+  "source": "User-supplied 737-page scanned quantitative aptitude book (topic index read from its contents pages)",
+  "pageCount": 737,
+  "topics": [
+    {
+      "id": 1,
+      "title": "Numbers",
+      "startPage": 5,
+      "endPage": 32
+    },
+    {
+      "id": 2,
+      "title": "H.C.F. and L.C.M. of Numbers",
+      "startPage": 33,
+      "endPage": 49
+    },
+    {
+      "id": 3,
+      "title": "Decimal Fractions",
+      "startPage": 50,
+      "endPage": 69
+    },
+    {
+      "id": 4,
+      "title": "Simplification",
+      "startPage": 70,
+      "endPage": 119
+    },
+    {
+      "id": 5,
+      "title": "Square Roots and Cube Roots",
+      "startPage": 120,
+      "endPage": 141
+    },
+    {
+      "id": 6,
+      "title": "Average",
+      "startPage": 142,
+      "endPage": 163
+    },
+    {
+      "id": 7,
+      "title": "Problems on Numbers",
+      "startPage": 164,
+      "endPage": 184
+    },
+    {
+      "id": 8,
+      "title": "Problems on Ages",
+      "startPage": 185,
+      "endPage": 197
+    },
+    {
+      "id": 9,
+      "title": "Surds and Indices",
+      "startPage": 198,
+      "endPage": 210
+    },
+    {
+      "id": 10,
+      "title": "Percentage",
+      "startPage": 211,
+      "endPage": 253
+    },
+    {
+      "id": 11,
+      "title": "Profit and Loss",
+      "startPage": 254,
+      "endPage": 304
+    },
+    {
+      "id": 12,
+      "title": "Ratio and Proportion",
+      "startPage": 305,
+      "endPage": 321
+    },
+    {
+      "id": 13,
+      "title": "Partnership",
+      "startPage": 322,
+      "endPage": 336
+    },
+    {
+      "id": 14,
+      "title": "Chain Rule",
+      "startPage": 337,
+      "endPage": 351
+    },
+    {
+      "id": 15,
+      "title": "Time and Work",
+      "startPage": 352,
+      "endPage": 382
+    },
+    {
+      "id": 16,
+      "title": "Pipes and Cisterns",
+      "startPage": 383,
+      "endPage": 395
+    },
+    {
+      "id": 17,
+      "title": "Time and Distance",
+      "startPage": 396,
+      "endPage": 416
+    },
+    {
+      "id": 18,
+      "title": "Problems on Trains",
+      "startPage": 417,
+      "endPage": 436
+    },
+    {
+      "id": 19,
+      "title": "Boats and Streams",
+      "startPage": 437,
+      "endPage": 445
+    },
+    {
+      "id": 20,
+      "title": "Alligation or Mixture",
+      "startPage": 446,
+      "endPage": 455
+    },
+    {
+      "id": 21,
+      "title": "Simple Interest",
+      "startPage": 456,
+      "endPage": 476
+    },
+    {
+      "id": 22,
+      "title": "Compound Interest",
+      "startPage": 477,
+      "endPage": 497
+    },
+    {
+      "id": 23,
+      "title": "Logarithms",
+      "startPage": 498,
+      "endPage": 509
+    },
+    {
+      "id": 24,
+      "title": "Area",
+      "startPage": 510,
+      "endPage": 561
+    },
+    {
+      "id": 25,
+      "title": "Volume and Surface Area",
+      "startPage": 562,
+      "endPage": 601
+    },
+    {
+      "id": 26,
+      "title": "Races and Games of Skill",
+      "startPage": 602,
+      "endPage": 605
+    },
+    {
+      "id": 27,
+      "title": "Calendar",
+      "startPage": 606,
+      "endPage": 609
+    },
+    {
+      "id": 28,
+      "title": "Clocks",
+      "startPage": 610,
+      "endPage": 617
+    },
+    {
+      "id": 29,
+      "title": "Stocks and Shares",
+      "startPage": 618,
+      "endPage": 625
+    },
+    {
+      "id": 30,
+      "title": "Permutations and Combinations",
+      "startPage": 626,
+      "endPage": 633
+    },
+    {
+      "id": 31,
+      "title": "Probability",
+      "startPage": 634,
+      "endPage": 644
+    },
+    {
+      "id": 32,
+      "title": "True Discount",
+      "startPage": 645,
+      "endPage": 649
+    },
+    {
+      "id": 33,
+      "title": "Banker's Discount",
+      "startPage": 650,
+      "endPage": 654
+    },
+    {
+      "id": 34,
+      "title": "Heights and Distances",
+      "startPage": 655,
+      "endPage": 661
+    },
+    {
+      "id": 35,
+      "title": "Odd Man Out and Series",
+      "startPage": 662,
+      "endPage": 671
+    },
+    {
+      "id": 36,
+      "title": "Tabulation",
+      "startPage": 672,
+      "endPage": 686
+    },
+    {
+      "id": 37,
+      "title": "Bar Graphs",
+      "startPage": 687,
+      "endPage": 705
+    },
+    {
+      "id": 38,
+      "title": "Pie Charts",
+      "startPage": 706,
+      "endPage": 719
+    },
+    {
+      "id": 39,
+      "title": "Line Graphs",
+      "startPage": 720,
+      "endPage": 737
+    }
+  ],
+  "summary": [
+    {
+      "id": 1,
+      "title": "Numbers",
+      "startPage": 5,
+      "endPage": 32,
+      "questionCount": 21,
+      "beginnerCount": 8,
+      "intermediateCount": 7,
+      "proCount": 6,
+      "answerKeyCount": 21,
+      "solutionCount": 21,
+      "verifiedCount": 21
+    },
+    {
+      "id": 2,
+      "title": "H.C.F. and L.C.M. of Numbers",
+      "startPage": 33,
+      "endPage": 49,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 3,
+      "title": "Decimal Fractions",
+      "startPage": 50,
+      "endPage": 69,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 4,
+      "title": "Simplification",
+      "startPage": 70,
+      "endPage": 119,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 5,
+      "title": "Square Roots and Cube Roots",
+      "startPage": 120,
+      "endPage": 141,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 6,
+      "title": "Average",
+      "startPage": 142,
+      "endPage": 163,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 7,
+      "title": "Problems on Numbers",
+      "startPage": 164,
+      "endPage": 184,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 8,
+      "title": "Problems on Ages",
+      "startPage": 185,
+      "endPage": 197,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 9,
+      "title": "Surds and Indices",
+      "startPage": 198,
+      "endPage": 210,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 10,
+      "title": "Percentage",
+      "startPage": 211,
+      "endPage": 253,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 11,
+      "title": "Profit and Loss",
+      "startPage": 254,
+      "endPage": 304,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 12,
+      "title": "Ratio and Proportion",
+      "startPage": 305,
+      "endPage": 321,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 13,
+      "title": "Partnership",
+      "startPage": 322,
+      "endPage": 336,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 14,
+      "title": "Chain Rule",
+      "startPage": 337,
+      "endPage": 351,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 15,
+      "title": "Time and Work",
+      "startPage": 352,
+      "endPage": 382,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 16,
+      "title": "Pipes and Cisterns",
+      "startPage": 383,
+      "endPage": 395,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 17,
+      "title": "Time and Distance",
+      "startPage": 396,
+      "endPage": 416,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 18,
+      "title": "Problems on Trains",
+      "startPage": 417,
+      "endPage": 436,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 19,
+      "title": "Boats and Streams",
+      "startPage": 437,
+      "endPage": 445,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 20,
+      "title": "Alligation or Mixture",
+      "startPage": 446,
+      "endPage": 455,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 21,
+      "title": "Simple Interest",
+      "startPage": 456,
+      "endPage": 476,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 22,
+      "title": "Compound Interest",
+      "startPage": 477,
+      "endPage": 497,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 23,
+      "title": "Logarithms",
+      "startPage": 498,
+      "endPage": 509,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 24,
+      "title": "Area",
+      "startPage": 510,
+      "endPage": 561,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 25,
+      "title": "Volume and Surface Area",
+      "startPage": 562,
+      "endPage": 601,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 26,
+      "title": "Races and Games of Skill",
+      "startPage": 602,
+      "endPage": 605,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 27,
+      "title": "Calendar",
+      "startPage": 606,
+      "endPage": 609,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 28,
+      "title": "Clocks",
+      "startPage": 610,
+      "endPage": 617,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 29,
+      "title": "Stocks and Shares",
+      "startPage": 618,
+      "endPage": 625,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 30,
+      "title": "Permutations and Combinations",
+      "startPage": 626,
+      "endPage": 633,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 31,
+      "title": "Probability",
+      "startPage": 634,
+      "endPage": 644,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 32,
+      "title": "True Discount",
+      "startPage": 645,
+      "endPage": 649,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 33,
+      "title": "Banker's Discount",
+      "startPage": 650,
+      "endPage": 654,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 34,
+      "title": "Heights and Distances",
+      "startPage": 655,
+      "endPage": 661,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 35,
+      "title": "Odd Man Out and Series",
+      "startPage": 662,
+      "endPage": 671,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 36,
+      "title": "Tabulation",
+      "startPage": 672,
+      "endPage": 686,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 37,
+      "title": "Bar Graphs",
+      "startPage": 687,
+      "endPage": 705,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 38,
+      "title": "Pie Charts",
+      "startPage": 706,
+      "endPage": 719,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    },
+    {
+      "id": 39,
+      "title": "Line Graphs",
+      "startPage": 720,
+      "endPage": 737,
+      "questionCount": 0,
+      "beginnerCount": 0,
+      "intermediateCount": 0,
+      "proCount": 0,
+      "answerKeyCount": 0,
+      "solutionCount": 0,
+      "verifiedCount": 0
+    }
+  ],
+  "questions": [
+    {
+      "id": "num-ex1-q001",
+      "number": 1,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "The difference between the local value and face value of 7 in the numeral 657903 is:",
+      "options": [
+        {
+          "label": "a",
+          "text": "0"
+        },
+        {
+          "label": "b",
+          "text": "7896"
+        },
+        {
+          "label": "c",
+          "text": "6993"
+        },
+        {
+          "label": "d",
+          "text": "903"
+        }
+      ],
+      "answer": "c",
+      "solution": "The digit 7 is in the thousands place, so its place (local) value is 7,000. Its face value is 7. Difference = 7,000 - 7 = 6,993.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 1
+    },
+    {
+      "id": "num-ex1-q002",
+      "number": 2,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "The difference between the place values of 7 and 3 in the number 527435 is:",
+      "options": [
+        {
+          "label": "a",
+          "text": "4"
+        },
+        {
+          "label": "b",
+          "text": "5"
+        },
+        {
+          "label": "c",
+          "text": "45"
+        },
+        {
+          "label": "d",
+          "text": "6970"
+        }
+      ],
+      "answer": "d",
+      "solution": "In 527435, the place value of 7 is 7,000 and the place value of 3 is 30. Difference = 7,000 - 30 = 6,970.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 2
+    },
+    {
+      "id": "num-ex1-q003",
+      "number": 3,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "The sum of the smallest six-digit number and the greatest five-digit number is:",
+      "options": [
+        {
+          "label": "a",
+          "text": "199999"
+        },
+        {
+          "label": "b",
+          "text": "201110"
+        },
+        {
+          "label": "c",
+          "text": "211110"
+        },
+        {
+          "label": "d",
+          "text": "1099999"
+        }
+      ],
+      "answer": "a",
+      "solution": "The smallest six-digit number is 100,000. The greatest five-digit number is 99,999. Sum = 100,000 + 99,999 = 199,999.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 3
+    },
+    {
+      "id": "num-ex1-q004",
+      "number": 4,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "If the largest three-digit number is subtracted from the smallest five-digit number, the remainder is:",
+      "options": [
+        {
+          "label": "a",
+          "text": "1"
+        },
+        {
+          "label": "b",
+          "text": "9000"
+        },
+        {
+          "label": "c",
+          "text": "9001"
+        },
+        {
+          "label": "d",
+          "text": "90001"
+        }
+      ],
+      "answer": "c",
+      "solution": "The smallest five-digit number is 10,000 and the largest three-digit number is 999. Remainder = 10,000 - 999 = 9,001.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 4
+    },
+    {
+      "id": "num-ex1-q005",
+      "number": 5,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "5978 + 6134 + 7014 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "16226"
+        },
+        {
+          "label": "b",
+          "text": "19126"
+        },
+        {
+          "label": "c",
+          "text": "19216"
+        },
+        {
+          "label": "d",
+          "text": "19226"
+        }
+      ],
+      "answer": "b",
+      "solution": "Add in steps: 5,978 + 6,134 = 12,112. Then 12,112 + 7,014 = 19,126.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 5
+    },
+    {
+      "id": "num-ex1-q007",
+      "number": 7,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "39798 + 3798 + 378 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "43576"
+        },
+        {
+          "label": "b",
+          "text": "43974"
+        },
+        {
+          "label": "c",
+          "text": "43984"
+        },
+        {
+          "label": "d",
+          "text": "49532"
+        }
+      ],
+      "answer": "b",
+      "solution": "Add 3,798 + 378 = 4,176. Then 39,798 + 4,176 = 43,974.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 6
+    },
+    {
+      "id": "num-ex1-q008",
+      "number": 8,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "9358 - 6014 + 3127 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "6381"
+        },
+        {
+          "label": "b",
+          "text": "6471"
+        },
+        {
+          "label": "c",
+          "text": "6561"
+        },
+        {
+          "label": "d",
+          "text": "6741"
+        }
+      ],
+      "answer": "b",
+      "solution": "Evaluate from left to right: 9,358 - 6,014 = 3,344. Then 3,344 + 3,127 = 6,471.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 7
+    },
+    {
+      "id": "num-ex1-q009",
+      "number": 9,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "9572 - 4018 - 2164 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "3300"
+        },
+        {
+          "label": "b",
+          "text": "3390"
+        },
+        {
+          "label": "c",
+          "text": "3570"
+        },
+        {
+          "label": "d",
+          "text": "7718"
+        }
+      ],
+      "answer": "b",
+      "solution": "Evaluate from left to right: 9,572 - 4,018 = 5,554. Then 5,554 - 2,164 = 3,390.",
+      "level": "intermediate",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 8
+    },
+    {
+      "id": "num-ex1-q010",
+      "number": 10,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "7589 - ? = 3434. What number replaces the question mark?",
+      "options": [
+        {
+          "label": "a",
+          "text": "721"
+        },
+        {
+          "label": "b",
+          "text": "3246"
+        },
+        {
+          "label": "c",
+          "text": "4155"
+        },
+        {
+          "label": "d",
+          "text": "11028"
+        }
+      ],
+      "answer": "c",
+      "solution": "Let the missing number be x. From 7,589 - x = 3,434, x = 7,589 - 3,434 = 4,155.",
+      "level": "intermediate",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 9
+    },
+    {
+      "id": "num-ex1-q012",
+      "number": 12,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "7545 - ? = 8461 - 3569. What number replaces the question mark?",
+      "options": [
+        {
+          "label": "a",
+          "text": "2593"
+        },
+        {
+          "label": "b",
+          "text": "2773"
+        },
+        {
+          "label": "c",
+          "text": "3569"
+        },
+        {
+          "label": "d",
+          "text": "None of these"
+        }
+      ],
+      "answer": "d",
+      "solution": "First evaluate the right-hand side: 8,461 - 3,569 = 4,892. Therefore the missing number is 7,545 - 4,892 = 2,653. Since 2,653 is not listed, the answer is None of these.",
+      "level": "intermediate",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 10
+    },
+    {
+      "id": "num-ex1-q013",
+      "number": 13,
+      "page": 14,
+      "sourcePage": 14,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "3578 + 5729 - ?486 = 5821. Which digit replaces the question mark?",
+      "options": [
+        {
+          "label": "a",
+          "text": "1"
+        },
+        {
+          "label": "b",
+          "text": "2"
+        },
+        {
+          "label": "c",
+          "text": "3"
+        },
+        {
+          "label": "d",
+          "text": "None of these"
+        }
+      ],
+      "answer": "c",
+      "solution": "First add 3,578 + 5,729 = 9,307. The number being subtracted must be 9,307 - 5,821 = 3,486. Thus the missing leading digit is 3.",
+      "level": "intermediate",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 11
+    },
+    {
+      "id": "num-ex1-q017",
+      "number": 17,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "5358 x 51 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "273258"
+        },
+        {
+          "label": "b",
+          "text": "273268"
+        },
+        {
+          "label": "c",
+          "text": "273348"
+        },
+        {
+          "label": "d",
+          "text": "273358"
+        }
+      ],
+      "answer": "a",
+      "solution": "5358 x 51 = 5358 x (50 + 1) = 267,900 + 5,358 = 273,258.",
+      "level": "intermediate",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 12
+    },
+    {
+      "id": "num-ex1-q018",
+      "number": 18,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "360 x 17 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "5120"
+        },
+        {
+          "label": "b",
+          "text": "5320"
+        },
+        {
+          "label": "c",
+          "text": "6120"
+        },
+        {
+          "label": "d",
+          "text": "6130"
+        }
+      ],
+      "answer": "c",
+      "solution": "360 x 17 = 360 x (10 + 7) = 3,600 + 2,520 = 6,120.",
+      "level": "beginner",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 13
+    },
+    {
+      "id": "num-ex1-q019",
+      "number": 19,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "587 x 999 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "586413"
+        },
+        {
+          "label": "b",
+          "text": "587523"
+        },
+        {
+          "label": "c",
+          "text": "614823"
+        },
+        {
+          "label": "d",
+          "text": "615173"
+        }
+      ],
+      "answer": "a",
+      "solution": "Use 999 = 1,000 - 1. So 587 x 999 = 587 x 1,000 - 587 = 587,000 - 587 = 586,413.",
+      "level": "intermediate",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 14
+    },
+    {
+      "id": "num-ex1-q025",
+      "number": 25,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "1014 x 986 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "998804"
+        },
+        {
+          "label": "b",
+          "text": "998814"
+        },
+        {
+          "label": "c",
+          "text": "998904"
+        },
+        {
+          "label": "d",
+          "text": "999804"
+        }
+      ],
+      "answer": "d",
+      "solution": "Write the factors as (1,000 + 14) and (1,000 - 14). Using (a+b)(a-b)=a²-b²: 1,000² - 14² = 1,000,000 - 196 = 999,804.",
+      "level": "intermediate",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 15
+    },
+    {
+      "id": "num-ex1-q026",
+      "number": 26,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "1307 x 1307 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "1601249"
+        },
+        {
+          "label": "b",
+          "text": "1607249"
+        },
+        {
+          "label": "c",
+          "text": "1701249"
+        },
+        {
+          "label": "d",
+          "text": "1708249"
+        }
+      ],
+      "answer": "d",
+      "solution": "1307² = (1,300 + 7)² = 1,300² + 2 x 1,300 x 7 + 7² = 1,690,000 + 18,200 + 49 = 1,708,249.",
+      "level": "pro",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 16
+    },
+    {
+      "id": "num-ex1-q027",
+      "number": 27,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "1399 x 1399 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "1687401"
+        },
+        {
+          "label": "b",
+          "text": "1901541"
+        },
+        {
+          "label": "c",
+          "text": "1943211"
+        },
+        {
+          "label": "d",
+          "text": "1957201"
+        }
+      ],
+      "answer": "d",
+      "solution": "Use 1,399 = 1,400 - 1. Then 1,399² = 1,400² - 2 x 1,400 x 1 + 1² = 1,960,000 - 2,800 + 1 = 1,957,201.",
+      "level": "pro",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 17
+    },
+    {
+      "id": "num-ex1-q028",
+      "number": 28,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "106 x 106 + 94 x 94 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "20032"
+        },
+        {
+          "label": "b",
+          "text": "20072"
+        },
+        {
+          "label": "c",
+          "text": "21032"
+        },
+        {
+          "label": "d",
+          "text": "23032"
+        }
+      ],
+      "answer": "b",
+      "solution": "106² = 11,236 and 94² = 8,836. Their sum is 11,236 + 8,836 = 20,072. Alternatively use (100+6)² + (100-6)² = 2(100²+6²).",
+      "level": "pro",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 18
+    },
+    {
+      "id": "num-ex1-q029",
+      "number": 29,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "217 x 217 + 183 x 183 = ?",
+      "options": [
+        {
+          "label": "a",
+          "text": "79698"
+        },
+        {
+          "label": "b",
+          "text": "80578"
+        },
+        {
+          "label": "c",
+          "text": "80698"
+        },
+        {
+          "label": "d",
+          "text": "81268"
+        }
+      ],
+      "answer": "b",
+      "solution": "Write 217 = 200 + 17 and 183 = 200 - 17. Using (a+b)² + (a-b)² = 2(a²+b²): 2(200² + 17²) = 2(40,000 + 289) = 80,578.",
+      "level": "pro",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 19
+    },
+    {
+      "id": "num-ex1-q031",
+      "number": 31,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "What number should replace x in this multiplication problem? 3x4 x 4 = 1216.",
+      "options": [
+        {
+          "label": "a",
+          "text": "0"
+        },
+        {
+          "label": "b",
+          "text": "2"
+        },
+        {
+          "label": "c",
+          "text": "4"
+        },
+        {
+          "label": "d",
+          "text": "5"
+        }
+      ],
+      "answer": "a",
+      "solution": "Divide the product by 4: 1,216 / 4 = 304. Therefore the three-digit number 3x4 is 304, so x = 0.",
+      "level": "pro",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 20
+    },
+    {
+      "id": "num-ex1-q032",
+      "number": 32,
+      "page": 15,
+      "sourcePage": 15,
+      "chapter": 1,
+      "topic": "Numbers",
+      "exercise": 1,
+      "stem": "A positive integer, when added to 1000, gives a sum greater than when it is multiplied by 1000. This positive integer is:",
+      "options": [
+        {
+          "label": "a",
+          "text": "1"
+        },
+        {
+          "label": "b",
+          "text": "3"
+        },
+        {
+          "label": "c",
+          "text": "5"
+        },
+        {
+          "label": "d",
+          "text": "7"
+        }
+      ],
+      "answer": "a",
+      "solution": "Let the positive integer be n. The condition is n + 1,000 > 1,000n, so 1,000 > 999n and n < 1,000/999, which is just above 1. The only positive integer satisfying this is n = 1.",
+      "level": "pro",
+      "questionVerified": true,
+      "answerVerified": true,
+      "solutionVerified": true,
+      "verificationMethod": "manual transcription from source scan + arithmetic recomputation + answer-key cross-check",
+      "answerSourcePage": 23,
+      "solutionPdfPage": 21
+    }
+  ],
+  "extractionNote": "Only manually checked cards are included in timed practice. Previous OCR-imported cards were excluded because the scan OCR corrupted mathematical expressions, option boundaries and answer keys. The current verified quiz set contains 21 questions from Numbers, source PDF pages 14-15. All 39 topic entries remain in the chapter index. To browse every page without publishing the copyrighted source book, load the original PDF locally in Book Library; it is opened in your browser and is not uploaded to the app server.",
+  "verificationAudit": {
+    "verifiedQuestionCount": 21,
+    "questionSourcePages": [
+      14,
+      15
+    ],
+    "answerKeySourcePage": 23,
+    "manualQA": true,
+    "excludedOCRCandidates": 917,
+    "excludedReason": "OCR corruption / missing manual verification; not playable",
+    "lastVerifiedOn": "2026-11-01"
+  }
+}
